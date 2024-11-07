@@ -1,2 +1,4 @@
 # CAT2-WEB-DESIGN
-CAT2 submission
+CAT2_Q1.html
+CAT2_Q2.html
+CAT2_Q3.html
